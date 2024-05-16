@@ -1,0 +1,15 @@
+// git ignore to C# program
+
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+*.vspscc
+*.vssscc
+*.development.*
+
+
+
+.config/
+.vscode/
