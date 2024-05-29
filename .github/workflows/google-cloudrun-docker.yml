@@ -54,7 +54,7 @@ env:
   SERVICE:  dotnet-git # TODO: update Cloud Run service name
   ART_REG:  cloud-run-source-deploy # TODO: update Cloud Run service name
   REGION: us-central1 # TODO: update Cloud Run service region
-  IMAGE: dotnet/dotnet-git
+  IMAGE: dotnet-git
 
 jobs:
   deploy:
