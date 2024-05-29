@@ -51,7 +51,7 @@ on:
 env:
   PROJECT_ID: test-firebase-19365 # TODO: update Google Cloud project id
   GAR_LOCATION: us-central1 # TODO: update Artifact Registry location
-  SERVICE:  dotnet # TODO: update Cloud Run service name
+  SERVICE:  dotnet-git # TODO: update Cloud Run service name
   ART_REG:  test # TODO: update Cloud Run service name
   REGION: us-central1 # TODO: update Cloud Run service region
   IMAGE: dotnet
